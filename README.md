@@ -16,7 +16,7 @@ Python, PostgreSQL, Git, Linux, Windows, Django Framework, Flask, AioHttp, Async
 
 - [Курсовая работа «Резервное копирование»](https://github.com/mmmmyeaaah/course-work)
 
-- SQL (postgres). [Python и БД. ORM](https://github.com/mmmmyeaaah/sql6) / [Работа с PostgreSQL из Python](https://github.com/mmmmyeaaah/sql5-CRUD/blob/master/clients.py)
+- SQL (postgres). [Python и БД. ORM](https://github.com/mmmmyeaaah/sql6) / [Работа с PostgreSQL из Python](https://github.com/mmmmyeaaah/sql5-CRUD)
 
 - Django. [Одна из домашних работ](https://github.com/mmmmyeaaah/3.2-django-crud)
 
