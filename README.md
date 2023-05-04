@@ -20,7 +20,7 @@ Python, PostgreSQL, Git, Linux, Windows, Django Framework, Flask, AioHttp, Async
 
 - Django. [Одна из домашних работ](https://github.com/mmmmyeaaah/3.2-django-crud)
 
-- [Docker](https://github.com/mmmmyeaaah/docker-1-2), [Docker-compose](https://github.com/netology-code/py-homeworks-web/tree/new/1.4-docker-compose)
+- [Docker](https://github.com/mmmmyeaaah/docker-1-2), [Docker-compose](https://github.com/mmmmyeaaah/docker-compose)
 
 - Flask. [Пример домашней работы](https://github.com/mmmmyeaaah/flask)
 
