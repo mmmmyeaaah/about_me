@@ -32,6 +32,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 
+![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
+![CI/CD](https://img.shields.io/badge/-CI/CD-DD0031?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+![Aiogram](https://img.shields.io/badge/-Aiogram-ffce5a?style=flat-square&logo=telegram)
+![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square)
+![Asyncio](https://img.shields.io/badge/-Asyncio-%23F7DF1C?style=flat-square&logo=Asyncio&labelColor=%23F7DF1C)
+![Aiohttp](https://img.shields.io/badge/-Aiohttp-orange?style=flat-square&logo=Aiohttp)
+
+
 ### Мои работы
 
 - [Работа с библиотекой requests, http-запросы](https://github.com/mmmmyeaaah/requests)
