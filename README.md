@@ -2,6 +2,18 @@
 
 Я <b>Виктор Зверев</b>, разработчик на python.
 
+<div id="badges">
+  <a href="https://t.me/mmmmzverev">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://discordapp.com/users/990622686663295007/">
+    <img src="https://img.shields.io/badge/discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=79171247172&text&type=phone_number&app_absent=0">
+    <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ### :hammer_and_wrench: Мой стек:
 
 <div>
@@ -66,3 +78,6 @@
 ### Сертификаты stepik
 
 - https://github.com/mmmmyeaaah/about_me/blob/master/stepik-certificate-58852-d013c6c.pdf
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmyeaaah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
