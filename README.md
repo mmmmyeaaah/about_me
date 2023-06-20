@@ -21,6 +21,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django Framework" alt="Django Framework" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
@@ -41,7 +42,6 @@
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square)
 ![Asyncio](https://img.shields.io/badge/-Asyncio-%23F7DF1C?style=flat-square&logo=Asyncio&labelColor=%23F7DF1C)
 ![Aiohttp](https://img.shields.io/badge/-Aiohttp-orange?style=flat-square&logo=Aiohttp)
-
 
 ### Мои работы
 
@@ -88,7 +88,8 @@
 
 ### Сертификаты stepik
 
-- https://github.com/mmmmyeaaah/about_me/blob/master/stepik-certificate-58852-d013c6c.pdf
+- [Поколение Python: курс для начинающих](https://github.com/mmmmyeaaah/about_me/blob/master/stepik-certificate-58852-d013c6c.pdf)
+- [Введение в Linux](https://github.com/mmmmyeaaah/mmmmyeaaah/blob/master/stepik-certificate-73-14f09b0.pdf)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmyeaaah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
