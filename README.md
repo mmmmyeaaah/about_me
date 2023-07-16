@@ -69,6 +69,8 @@
 
 - Тестовое задание [изменение цены криптоактива](https://github.com/mmmmyeaaah/check_price)
 
+- [Телеграм-бот для семейного диалога](https://github.com/mmmmyeaaah/family_bot)
+
 
 ### Сертификаты Нетологии
 
