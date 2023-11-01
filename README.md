@@ -18,6 +18,7 @@
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -42,6 +43,7 @@
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square)
 ![Asyncio](https://img.shields.io/badge/-Asyncio-%23F7DF1C?style=flat-square&logo=Asyncio&labelColor=%23F7DF1C)
 ![Aiohttp](https://img.shields.io/badge/-Aiohttp-orange?style=flat-square&logo=Aiohttp)
+![Codeception](https://img.shields.io/badge/-Codeception-40AEF0?style=flat-square&logo=c)
 
 ### Мои работы
 
